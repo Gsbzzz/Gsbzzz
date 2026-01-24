@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](your-linkedin-link-here)  
+- [LinkedIn](https://www.linkedin.com/in/gursehajs/)  
 
 ---
 
