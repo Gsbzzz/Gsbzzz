@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gursehajs/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@Gsbzzz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://github.com/Gsbzzz"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
   <img src="https://komarev.com/ghpvc/?username=Gsbzzz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
@@ -163,7 +162,7 @@ Topics I write about:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4n4ggkuiol2r5z5wk5lkisnve&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l4n4ggkuiol2r5z5wk5lkisnve&redirect=true)
 
 </div>
--->
+
  ---
 <div align="center">
 
